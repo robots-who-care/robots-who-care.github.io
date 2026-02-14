@@ -1,0 +1,8 @@
+# Development samples
+samples/
+
+# Claude config
+.claude/
+
+# OS files
+.DS_Store
